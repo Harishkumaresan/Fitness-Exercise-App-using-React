@@ -43,7 +43,7 @@ body {
 }
 
 .react-horizontal-scrolling-menu--wrapper {
-  width: 100%;
+  width: inherit !important;
   display: flex;
   flex-wrap: wrap;
 }
